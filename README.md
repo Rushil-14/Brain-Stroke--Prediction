@@ -1,5 +1,5 @@
 # Brain-Stroke--Prediction
-#**OVERVIEW**--
+# **OVERVIEW**--
 This project aims to predict brain strokes using machine learning techniques. It involves data preprocessing, exploratory data analysis (EDA), and the application of various classification algorithms. The models are trained and evaluated for accuracy, and hyperparameter tuning is conducted to optimize performance.
 
 #**DATASET**--
